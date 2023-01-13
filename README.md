@@ -41,7 +41,7 @@ My skills include:
 #
 
 ### 📊 Stats
-![Amine's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cmedamine&show_icons=true&theme=radical)
+![Amine's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cmedamine&show_icons=true&theme=highcontrast)
 
 
 I am always striving to improve my skills and stay up to date with the latest developments in the industry.
