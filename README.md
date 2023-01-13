@@ -46,7 +46,7 @@ Hello, I am a Flutter developer with experience building mobile apps for both iO
 
 I am always striving to improve my skills and stay up to date with the latest developments in the industry.
 
-You can check out some of my projects on my [GitHub profile](https://github.com/cmedamine) :octocat: and If you have any interesting projects that you think I could help with, feel free to reach out to me :email: :telephone_receiver:
+You can check out some of my projects on my GitHub profile :octocat: and If you have any interesting projects that you think I could help with, feel free to reach out to me :email: :telephone_receiver:
 
 #
 
