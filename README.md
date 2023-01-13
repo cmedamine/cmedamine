@@ -47,3 +47,5 @@ My skills include:
 I am always striving to improve my skills and stay up to date with the latest developments in the industry.
 
 You can check out some of my projects on my [GitHub profile](https://github.com/cmedamine) :octocat: and If you have any interesting projects that you think I could help with, feel free to reach out to me :email: :telephone_receiver:
+
+<code><img src="https://komarev.com/ghpvc/?username=cmedamine&style=flat&color=yellow"></code>
