@@ -6,16 +6,15 @@ Hello, I am a Flutter developer with experience building mobile apps for both iO
 
 ---
 
-My skills include:
+### 💻 My skills include
 - Building responsive and beautiful user interfaces using Flutter's widgets and customizing them to match the design requirements :computer: :art:
 - Implementing complex logic and data storage using Dart, also making use of various libraries and plugins available :nerd_face: :books:
 - Integrating with RESTful APIs and Firebase, to provide a seamless user experience :electric_plug: :iphone:
 - Developing and debugging on both iOS and Android platforms, and making use of various debugging tools available :rocket: :wrench:
 
----
+#
 
 ### 🧰 Languages and Tools
-
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg"/>
 <img align="left" alt="Android" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
@@ -36,7 +35,7 @@ My skills include:
 <img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
 -->
-<br />
+<br/>
 
 #
 
@@ -44,14 +43,17 @@ My skills include:
 ![Amine's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cmedamine&show_icons=true&theme=highcontrast)
 
 #
+
 I am always striving to improve my skills and stay up to date with the latest developments in the industry.
 
 You can check out some of my projects on my [GitHub profile](https://github.com/cmedamine) :octocat: and If you have any interesting projects that you think I could help with, feel free to reach out to me :email: :telephone_receiver:
 
-- Where to find me?
-</br>
+#
+
+### 💬 Social
 <a href="https://linkedin.com/in/aminechamkh"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/ChamkhAmine"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
 #
+
 <code><img src="https://komarev.com/ghpvc/?username=cmedamine&style=flat&color=yellow"></code>
