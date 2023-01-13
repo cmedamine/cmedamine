@@ -43,9 +43,15 @@ My skills include:
 ### 📊 Stats
 ![Amine's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cmedamine&show_icons=true&theme=highcontrast)
 
-
+#
 I am always striving to improve my skills and stay up to date with the latest developments in the industry.
 
 You can check out some of my projects on my [GitHub profile](https://github.com/cmedamine) :octocat: and If you have any interesting projects that you think I could help with, feel free to reach out to me :email: :telephone_receiver:
 
+- Where to find me?
+</br>
+<a href="https://linkedin.com/in/aminechamkh"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/ChamkhAmine"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+
+#
 <code><img src="https://komarev.com/ghpvc/?username=cmedamine&style=flat&color=yellow"></code>
